@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "python3",
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true
+    },
+    "git.enableSmartCommit": true,
+    "git.autofetch": true
+}
